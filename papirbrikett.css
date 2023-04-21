@@ -1,6 +1,9 @@
 body{
+  line-height: 125%;
+  color: #1F3F5F;
+}
+body{
   padding: 15px;
-  color: blue;
   line-height: 110%;
   background-image: url(../Papirbrikett_git_gyakorlas/hatterkep.png);
 }
@@ -24,8 +27,7 @@ h1, h2{
   background-color: #EBEBEB;
   padding: 10px 35px;
   font-size: 75%;
-  margin-top: 1px #3F4F5F;
-  margin-bottom: 1px #3F4F5F;
+  border-top: 1px #3F4F5F;
 }
 
 #brikettek{
@@ -62,6 +64,7 @@ p:first-letter{
 .kiemelt{
   font-style: italic;
   font-weight: bold;
+  color: black;
 }
 
 li{
