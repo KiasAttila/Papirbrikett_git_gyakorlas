@@ -9,6 +9,9 @@ h1{
 
   margin: 10px 0px 40px;
 }
+h1{
+  text-align: center;
+}
 
 h1, h2{
   font-variant: small-caps;
